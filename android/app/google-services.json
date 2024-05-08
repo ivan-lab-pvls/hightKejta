@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631831471668",
+    "project_id": "high-five-app-ce380",
+    "storage_bucket": "high-five-app-ce380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631831471668:android:9f5549b01dda946cb04c61",
+        "android_client_info": {
+          "package_name": "com.higih.fives.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcdhw7hqsikueIkM_vpGSlCNPzh1gYqmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
